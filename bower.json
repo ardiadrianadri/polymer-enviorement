@@ -1,0 +1,23 @@
+{
+  "name": "polymer-enviorement",
+  "authors": [
+    "ardiadrianadri <ardiadrianadri@gmail.com>"
+  ],
+  "description": "Polymer enviorement to start a webcomponent project",
+  "main": "",
+  "keywords": [
+    "Polymer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.5.0"
+  }
+}

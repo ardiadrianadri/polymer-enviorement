@@ -1,0 +1,22 @@
+{
+  "name": "polymer-enviorement",
+  "version": "0.1.0",
+  "description": "polymer enviorement to star a webcomponent project",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "bower install",
+    "start":"nodemon index.js"
+  },
+  "keywords": [
+    "polymer"
+  ],
+  "author": "ardiadrianadri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2",
+    "path": "^0.12.7"
+  }
+}
